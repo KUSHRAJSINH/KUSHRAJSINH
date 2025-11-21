@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # Runs twice a day
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,13 +10,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
-          github_user: KUSHRAJSINH
+          github_user_name: KUSHRAJSINH
           outputs: |
             dist/github-contribution-grid-snake.svg
 
@@ -31,5 +31,5 @@ jobs:
         with:
           commit_message: "Update Snake Animation"
           branch: output
-          file_pattern: dist/github-contribution-grid-snake.svg
+          file_pattern: "dist/github-contribution-grid-snake.svg"
           create_branch: true

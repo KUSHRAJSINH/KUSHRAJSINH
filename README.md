@@ -104,7 +104,7 @@ _data → model → vector search → orchestration → deployment → automatio
 ## 🏆 **GitHub Trophy Showcase**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KUSHRAJSINH&theme=dracula&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.sh/?username=KUSHRAJSINH&theme=dracula&no-frame=true&margin-w=10" />
 </p>
 
 ---

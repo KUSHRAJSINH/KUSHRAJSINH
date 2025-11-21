@@ -2,7 +2,7 @@ name: Generate 3D Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs daily
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -20,10 +20,12 @@ jobs:
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: "KUSHRAJSINH"   # <-- REQUIRED FIX
 
-      - name: Push 3D Graph
+      - name: Push Generated Graph
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add -A
           git commit -m "Update 3D Contribution Graph" || true
+          git push

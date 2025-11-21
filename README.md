@@ -6,7 +6,7 @@
 <h3 align="center">🚀 AI/ML Engineer | GenAI • Agentic AI • RAG Systems • Python Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D5FF&center=true&vCenter=true&width=600&height=45&lines=AI%2FML+Engineer;GenAI+%7C+Agentic+AI+%7C+RAG+Systems;Python+Developer;Building+Intelligent+Solutions+Every+Day" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D5FF&center=true&vCenter=true&width=650&height=45&lines=AI%2FML+Engineer;GenAI+%7C+Agentic+AI+%7C+RAG+Systems;Python+Developer;Building+Intelligent+Solutions+Every+Day" />
 </p>
 
 <p align="center">
@@ -19,10 +19,6 @@
 
 ---
 
-<!-- ========================================================= -->
-<!-- ======================= ABOUT ME ========================= -->
-<!-- ========================================================= -->
-
 ## 👨‍💻 **About Me**
 
 I'm an **AI/ML Engineering Graduate** passionate about building intelligent and scalable systems using:
@@ -33,16 +29,12 @@ I'm an **AI/ML Engineering Graduate** passionate about building intelligent and 
 - 📚 **NLP & Transformers**
 - 🐍 **Python for AI**
 
-I specialize in **end-to-end AI product engineering**:  
-_from data → model → vector search → deployment → automation_.
+I specialize in **end-to-end AI Product Engineering** from  
+_data → model → vector search → orchestration → deployment → automation._
 
-✨ Always learning. Always optimizing. Always building.
+✨ Always building. Always learning. Always improving.
 
 ---
-
-<!-- ========================================================= -->
-<!-- ===================== TECH STACK ======================== -->
-<!-- ========================================================= -->
 
 ## 🛠️ **Tech Stack**
 
@@ -80,10 +72,6 @@ _from data → model → vector search → deployment → automation_.
 
 ---
 
-<!-- ========================================================= -->
-<!-- ====================== STATS AREA ======================= -->
-<!-- ========================================================= -->
-
 ## 📊 **GitHub Analytics**
 
 <p align="center">
@@ -97,34 +85,21 @@ _from data → model → vector search → deployment → automation_.
 
 ---
 
-<!-- ========================================================= -->
-<!-- ===================== 3D CONTRIBUTION =================== -->
-<!-- ========================================================= -->
-
 ## 🧊 **3D Contribution Graph**
 
 <p align="center">
  <img src="https://raw.githubusercontent.com/KUSHRAJSINH/KUSHRAJSINH/main/profile-3d-contrib/profile-night-rainbow.svg" />
-
 </p>
 
 ---
-
-<!-- ========================================================= -->
-<!-- ===================== SNAKE GRAPH ======================= -->
-<!-- ========================================================= -->
 
 ## 🐍 **Snake Eating My Contributions**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KUSHRAJSINH/KUSHRAJSINH/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/KUSHRAJSINH/KUSHRAJSINH/output/dist/github-contribution-grid-snake.svg" />
 </p>
 
 ---
-
-<!-- ========================================================= -->
-<!-- ===================== TROPHY WALL ======================= -->
-<!-- ========================================================= -->
 
 ## 🏆 **GitHub Trophy Showcase**
 
@@ -134,10 +109,6 @@ _from data → model → vector search → deployment → automation_.
 
 ---
 
-<!-- ========================================================= -->
-<!-- ===================== FEATURED PROJECTS ================= -->
-<!-- ========================================================= -->
-
 ## 🚀 **Featured AI Projects**
 
 ### 🔹 **GenAI Chatbot**
@@ -146,16 +117,13 @@ LLM-powered chatbot built with LangChain + FastAPI.
 ### 🔹 **RAG-Based Document AI**
 Retrieval-Augmented system with vector embeddings.
 
+### 🔹 **Finance AI Agent**
+AI agent that performs financial analysis, predictions, decision-making, and automation.
+
 ### 🔹 **AI Portfolio Website**
 React-based animated personal site.
 
-➡️ **Pin these repos on your profile for maximum impact.**
-
 ---
-
-<!-- ========================================================= -->
-<!-- ======================== CONTACT ========================= -->
-<!-- ========================================================= -->
 
 ## 📬 **Connect With Me**
 

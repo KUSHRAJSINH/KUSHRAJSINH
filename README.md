@@ -116,7 +116,8 @@ _from data → model → vector search → deployment → automation_.
 ## 🐍 **Snake Eating My Contributions**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KUSHRAJSINH/KUSHRAJSINH/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/KUSHRAJSINH/KUSHRAJSINH/output/dist/github-contribution-grid-snake.svg" />
+
 </p>
 
 ---

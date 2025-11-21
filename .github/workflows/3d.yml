@@ -2,7 +2,7 @@ name: Generate 3D Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # Runs daily
   workflow_dispatch:
 
 jobs:
@@ -13,18 +13,17 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate 3D Profile
-        uses: yoshi389111/github-profile-3d-contrib@0.7.8
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push Generated Files
+      - name: Push 3D Graph
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add -A
           git commit -m "Update 3D Contribution Graph" || true
-          git push
